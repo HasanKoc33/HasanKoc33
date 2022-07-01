@@ -1,7 +1,8 @@
 
 ### Hi there 👋 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/HasanKoc33/HasanKoc33/main/WhatsApp%20Image%202022-06-19%20at%2015.54.56.jpeg" alt="drawing" style="width:200px; "/>
+<img src="https://raw.githubusercontent.com/HasanKoc33/HasanKoc33/main/WhatsApp%20Image%202022-06-19%20at%2015.54.56.jpeg" alt="drawing" style="width:200px;   "/>
+</div>
 <h1>I am HASAN KOÇ</h1>
 
 <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Snow" style="width:10%"> 
