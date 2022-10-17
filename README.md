@@ -1,15 +1,25 @@
 
+<html>
+<body>
 ### Hi there 👋 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/HasanKoc33/HasanKoc33/main/WhatsApp%20Image%202022-06-19%20at%2015.54.56.jpeg" alt="drawing" style="width:200px;   "/>
 </div>
 <h1>I am HASAN KOÇ</h1>
 
-<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Snow" style="width:10%"> 
-<img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Snow" style="width:10%"> 
-<img src="https://kotlinlang.org/docs/images/kotlin-logo.png" style="width:12%">  <br>
-<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png?20111229210123" alt="Snow" style="width:5%">  
-<img src="https://developer.apple.com/assets/elements/icons/swift-playgrounds-mac/swift-playgrounds-mac-96x96_2x.png" alt="Mountains" style="width:8%">
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=HasanKoc33&show_icons=true&locale=en&bg_color=050f2c&text_color=ffffff&layout=compact"
+   width="50%"
+    margin-left="auto"
+  margin-right="auto"
+    />
+
+<br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanKoc33&show_icons=true&locale=en&bg_color=050f2c&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanKoc33&theme=dark&background=050f2c&date_format=M%20j%5B%2C%20Y%5D" /></p>
+
 <br>
 <br>
 <br>
@@ -32,4 +42,5 @@ My App Store market account (The account does not belong to me, the applications
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMMbpaz2DJefoC7MwnVuv10eXH5gcOrjEqJw&usqp=CAU" alt="drawing" style="width:200px;"/>
 </a></p>
 
-
+</body>
+</html>
