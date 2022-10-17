@@ -9,8 +9,7 @@
 
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=HasanKoc33&show_icons=true&locale=en&bg_color=050f2c&text_color=ffffff&layout=compact"
-   width="50%"
-    margin-left="auto"
+  margin-left="auto"
   margin-right="auto"
     />
 
