@@ -1,9 +1,9 @@
 
 <html>
 <body>
-### Hi there 👋 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/HasanKoc33/HasanKoc33/main/WhatsApp%20Image%202022-06-19%20at%2015.54.56.jpeg" alt="drawing" style="width:200px;   "/>
+<div style="text-align:center; width:100%;">
+<img src="profil.jpeg" alt="drawing" style="width:300px;  text-align=center; "/>
+<img src="https://raw.githubusercontent.com/HasanKoc33/HasanKoc33/main/WhatsApp%20Image%202022-06-19%20at%2015.54.56.jpeg" alt="drawing" style="width:400px;  text-align=right; "/>
 
 </div>
 <h1>I am HASAN KOÇ</h1>
