@@ -4,22 +4,10 @@
 ### Hi there 👋 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/HasanKoc33/HasanKoc33/main/WhatsApp%20Image%202022-06-19%20at%2015.54.56.jpeg" alt="drawing" style="width:200px;   "/>
-<img src="78994-time-bomb.gif" alt="drawing" style="width:200px;   "/>
 
 </div>
 <h1>I am HASAN KOÇ</h1>
 
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=HasanKoc33&show_icons=true&locale=en&bg_color=050f2c&text_color=ffffff&layout=compact"
-  margin-left="auto"
-  margin-right="auto"
-    />
-
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanKoc33&show_icons=true&locale=en&bg_color=050f2c&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanKoc33&theme=dark&background=050f2c&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 <br>
 <br>
