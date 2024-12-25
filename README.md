@@ -1,14 +1,7 @@
 
 
 
-  <h1>HASAN KOÇ  |  Flutter Developer</h1>
-
-<div style="text-align:center; width:100%;">
-<img src="profil.jpeg" alt="drawing" style="width:300px;  text-align=center; "/>
-<img src="https://raw.githubusercontent.com/HasanKoc33/HasanKoc33/main/WhatsApp%20Image%202022-06-19%20at%2015.54.56.jpeg" alt="drawing" style="width:400px;  text-align=right; "/>
-
-</div>
-<img src="78994-time-bomb.gif" alt="drawing" style="width:60px; height:60px; text-align=center; "/>
+  <h1>HASAN KOÇ</h1>
 
 
 ## 🤖 My market account 
